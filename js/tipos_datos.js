@@ -1,0 +1,17 @@
+var cadena = "MY FIRST DEVELOPER IN TS";
+console.log(cadena);
+var numero = 12;
+console.log(numero);
+var boleano = true;
+console.log(boleano);
+var cosas = "true";
+console.log(boleano);
+var nombres = ['Laura', 'Julia', 'Maria'];
+console.log(nombres);
+var edades = [12, 34, 56];
+console.log(edades);
+var varios = [12, 'Juan', 'Pablo', 25];
+console.log(varios);
+var model_carro = "mitsubichi";
+model_carro = 2345;
+console.log(model_carro);
